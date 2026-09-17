@@ -1,5 +1,5 @@
 # text-based-rpg
-T Level digital software development project!
+
 
 A single player, text based, turn based RPG dungeon crawler developed in python as part of my T level Digital software development course 
 
