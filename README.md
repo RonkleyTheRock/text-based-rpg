@@ -4,6 +4,13 @@
 A single player, text based, turn based RPG dungeon crawler developed in python as part of my T level Digital software development course 
 
 
+
+
+
+
+
+
+
 15-09-2026
 Some current features im planning on adding:
 -Permadeath
@@ -27,3 +34,43 @@ Project documentaion
 -test plan 
 -development log
 -trello board
+
+
+17-09/2026 i
+## Current Progress
+
+### Design Completed
+
+- Game overview and concept
+- Game summary
+- Main selling points
+- Gameplay mechanics
+- Game inspirations
+- Character statistics
+- Goals and challenges
+- Game rules
+- Core mechanics
+- XP and levelling system
+- Pre-battle system
+- Character progression
+- End goal
+- Game flowcharts
+- Pseudocode for the main menu, combat and levelling systems
+- Storyline
+- Three main characters and their relationships
+- Seven character classes
+- Visual design
+- System requirements
+- Development tools
+- Target audience
+- Development approach
+- Testing and refinement plan
+- Version control and project management plan
+- Bibliography
+
+## Project Documentation
+
+- Design document
+- Test plan
+- Development log
+- Trello board
